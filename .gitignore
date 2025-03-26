@@ -1,0 +1,6 @@
+*.o
+ideas.txt
+line_count.py
+/executable/
+/.vscode/
+main.exe
